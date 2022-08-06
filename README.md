@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @n3v0pr0s
 - 👀 I’m interested in .NET
-- 🌱 I’m currently learning F#
-- 💞️ I’m looking to collaborate with @philippranzhin
+- 🌱 I’m currently learning JS/React
 - 📫 Me in telegram @n3v0pr0s
 
 <!---
